@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="cs5010-project-rakshika-raju/res/Project-KillDrLucky-M4.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/cs5010-project-rakshika-raju/res/Project-KillDrLucky.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=cs5010-final-project-team_rakshika_soundarya/src&lt;controller{Main.java[Main" manifestLocation="/cs5010-project-rakshika-raju/res/manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=cs5010-final-project-team_rakshika_soundarya"/>
+    </selectedElements>
+</jardesc>

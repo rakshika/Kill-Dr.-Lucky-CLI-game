@@ -1,0 +1,612 @@
+
+Welcome to the Game!!
+This Game needs one Computer Controlled Player
+Adding Computer Controlled Player...
+Enter the Maximum number of items the computer player is allowed to pick
+2
+Computer Controlled Player Created
+
+Enter Total Number of Human Players
+2
+
+Enter Player 1 name
+Rakshika
+
+Enter Player 1's count for Max Items allowed(between 1 to 5)
+8
+Enter a number between 1 and 5.
+
+Enter Player 1's count for Max Items allowed(between 1 to 5)
+2
+
+Rakshika, which Room do you want to enter first? Choose room Number from below options:
+1 Trophy Room
+2 Pantry
+3 Foyer
+4 Dining Hall
+5 Guest Room
+6 Bathroom
+7 Drawing Room
+8 Lanchester Room
+9 Ball Room
+10 Master Suite
+11 Nursery
+12 Armory
+13 Kitchen
+14 Piazza
+15 Hedge Maze
+16 Wine Cellar
+17 Garage
+18 Gallery
+19 Library
+20 Closet
+21 Green House
+30
+Enter correct room Number to start.
+
+Rakshika, which Room do you want to enter first? Choose room Number from below options:
+1 Trophy Room
+2 Pantry
+3 Foyer
+4 Dining Hall
+5 Guest Room
+6 Bathroom
+7 Drawing Room
+8 Lanchester Room
+9 Ball Room
+10 Master Suite
+11 Nursery
+12 Armory
+13 Kitchen
+14 Piazza
+15 Hedge Maze
+16 Wine Cellar
+17 Garage
+18 Gallery
+19 Library
+20 Closet
+21 Green House
+8
+
+Enter Player 2 name
+Raju
+
+Enter Player 2's count for Max Items allowed(between 1 to 5)
+three
+Enter a number between 1 and 5.
+
+Enter Player 2's count for Max Items allowed(between 1 to 5)
+3
+
+Raju, which Room do you want to enter first? Choose room Number from below options:
+1 Trophy Room
+2 Pantry
+3 Foyer
+4 Dining Hall
+5 Guest Room
+6 Bathroom
+7 Drawing Room
+8 Lanchester Room
+9 Ball Room
+10 Master Suite
+11 Nursery
+12 Armory
+13 Kitchen
+14 Piazza
+15 Hedge Maze
+16 Wine Cellar
+17 Garage
+18 Gallery
+19 Library
+20 Closet
+21 Green House
+20
+
+LET's PLAY!!
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+1
+World PNG created
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+2
+
+Player Num: 1
+Player Name: Rakshika
+Player in Room: Num: 8 Name: Lanchester Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Room Num = 8, Room Name = Lanchester Room, 
+Items Available:
+17. Tight Hat, Item Damage: 2, Item Room: 8
+20. Loud Noise, Item Damage: 1, Item Room: 8
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+17
+Item Picked
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+2
+
+Player Num: 2
+Player Name: Raju
+Player in Room: Num: 20 Name: Closet
+Max Number of Items allowed to pick: 3
+Items Picked:
+
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Room Num = 20, Room Name = Closet, 
+Items Available:
+18. Piece of Rope, Item Damage: 2, Item Room: 20
+
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+20
+Item Not Present
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+18
+Item Picked
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Enter room number to which you want to move:
+Move Completed
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Room Num = 8, Room Name = Lanchester Room, 
+Items Available:
+20. Loud Noise, Item Damage: 1, Item Room: 8
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+2
+
+Player Num: 1
+Player Name: Rakshika
+Player in Room: Num: 8 Name: Lanchester Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+17. Tight Hat, Item Damage: 2
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+20
+Item Picked
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+4
+
+Enter room number to which you want to move:
+18
+Room not a neighbor. Lose your turn
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Current Room Num = 5, Current Room Name = Guest Room 
+Neighboring Rooms with Items: 
+Neighbor Num = 1 Neighbor Name = Trophy Room
+Items in Room:
+13. Pinking Shears, Item Damage: 2, Item Room: 1
+
+Neighbor Num = 6 Neighbor Name = Bathroom
+Items in Room:
+14. Duck Decoy, Item Damage: 3, Item Room: 6
+21. Hair Comb, Item Damage: 2, Item Room: 6
+
+Neighbor Num = 20 Neighbor Name = Closet
+Items in Room:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 7
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+6
+
+Current Room Num = 8, Current Room Name = Lanchester Room 
+Neighboring Rooms with Items: 
+Neighbor Num = 2 Neighbor Name = Pantry
+Items in Room:
+9. Billiard Cue, Item Damage: 2, Item Room: 2
+
+Neighbor Num = 1 Neighbor Name = Trophy Room
+Items in Room:
+13. Pinking Shears, Item Damage: 2, Item Room: 1
+
+Neighbor Num = 10 Neighbor Name = Master Suite
+Items in Room:
+19. Silken Cord, Item Damage: 3, Item Room: 10
+
+Neighbor Num = 13 Neighbor Name = Kitchen
+Items in Room:
+1. Crepe Pan, Item Damage: 3, Item Room: 13
+
+Neighbor Num = 18 Neighbor Name = Gallery
+Items in Room:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 8
+
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+6
+
+Current Room Num = 20, Current Room Name = Closet 
+Neighboring Rooms with Items: 
+Neighbor Num = 1 Neighbor Name = Trophy Room
+Items in Room:
+13. Pinking Shears, Item Damage: 2, Item Room: 1
+
+Neighbor Num = 5 Neighbor Name = Guest Room
+Items in Room:
+
+Neighbor Num = 10 Neighbor Name = Master Suite
+Items in Room:
+19. Silken Cord, Item Damage: 3, Item Room: 10
+
+Neighbor Num = 12 Neighbor Name = Armory
+Items in Room:
+5. Revolver, Item Damage: 4, Item Room: 12
+
+Target =  Doctor Lucky, Health = 50, Current Location = 9
+
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Enter room number to which you want to move:
+Room not a neighbor. Lose your turn
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+4
+
+Enter room number to which you want to move:
+2
+Move Completed
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+4
+
+Enter room number to which you want to move:
+1
+Move Completed
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Enter room number to which you want to move:
+Room not a neighbor. Lose your turn
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Room Num = 2, Room Name = Pantry, 
+Items Available:
+9. Billiard Cue, Item Damage: 2, Item Room: 2
+
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+9
+Max item count reached for player
+
+Player 1. Rakshika's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+6
+
+Current Room Num = 2, Current Room Name = Pantry 
+Neighboring Rooms with Items: 
+Neighbor Num = 8 Neighbor Name = Lanchester Room
+Items in Room:
+
+Neighbor Num = 16 Neighbor Name = Wine Cellar
+Items in Room:
+6. Civil War Cannon, Item Damage: 3, Item Room: 16
+
+Neighbor Num = 13 Neighbor Name = Kitchen
+Items in Room:
+1. Crepe Pan, Item Damage: 3, Item Room: 13
+
+Target =  Doctor Lucky, Health = 50, Current Location = 14
+
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Room Num = 1, Room Name = Trophy Room, 
+Items Available:
+13. Pinking Shears, Item Damage: 2, Item Room: 1
+
+
+Player 2. Raju's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+13
+Item Picked
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Enter Item number that you want to pick:
+Item Not Present
+
+Player 0. Computer's Turn:
+
+Choose one of the following options: 
+1. Draw World
+2. Display Player Info
+3. Display Current Space Info
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+
+Current Room Num = 5, Current Room Name = Guest Room 
+Neighboring Rooms with Items: 
+Neighbor Num = 1 Neighbor Name = Trophy Room
+Items in Room:
+
+Neighbor Num = 6 Neighbor Name = Bathroom
+Items in Room:
+14. Duck Decoy, Item Damage: 3, Item Room: 6
+21. Hair Comb, Item Damage: 2, Item Room: 6
+
+Neighbor Num = 20 Neighbor Name = Closet
+Items in Room:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 16

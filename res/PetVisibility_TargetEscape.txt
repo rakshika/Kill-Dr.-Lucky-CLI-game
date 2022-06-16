@@ -1,0 +1,593 @@
+
+Welcome to the Game!!
+This Game needs one Computer Controlled Player
+Adding Computer Controlled Player...
+Enter the Maximum number of items the computer player is allowed to pick
+2
+
+From which Room do you want the computer player to Start? Choose room Number from below options:
+1 Trophy Room
+2 Pantry
+3 Foyer
+4 Dining Hall
+5 Guest Room
+6 Bathroom
+7 Drawing Room
+8 Lanchester Room
+9 Ball Room
+10 Master Suite
+11 Nursery
+12 Armory
+13 Kitchen
+14 Piazza
+15 Hedge Maze
+16 Wine Cellar
+17 Garage
+18 Gallery
+19 Library
+20 Closet
+21 Green House
+7
+Computer Controlled Player Created
+
+Enter Total Number of Human Players
+1
+
+Enter Player 1 name
+rakshika
+
+Enter Player 1's count for Max Items allowed(between 1 to 5)
+2
+
+rakshika, which Room do you want to enter first? Choose room Number from below options:
+1 Trophy Room
+2 Pantry
+3 Foyer
+4 Dining Hall
+5 Guest Room
+6 Bathroom
+7 Drawing Room
+8 Lanchester Room
+9 Ball Room
+10 Master Suite
+11 Nursery
+12 Armory
+13 Kitchen
+14 Piazza
+15 Hedge Maze
+16 Wine Cellar
+17 Garage
+18 Gallery
+19 Library
+20 Closet
+21 Green House
+1
+
+LET's PLAY!!
+
+Player 1. rakshika's Turn:
+
+Your details:
+
+Player Num: 1
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 1
+
+Your space details:
+Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+13. Pinking Shears, Item Damage: 2
+
+Neighbors of Room:
+5 : Guest Room
+6 : Bathroom
+10 : Master Suite
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+Pet =  Cooper the Husky, Current Location = 1
+Target =  Doctor Lucky, Health = 50, Current Location = 1
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+5
+
+Enter Item number that you want to pick:
+13
+Item Picked
+
+Player 0. Computer's Turn:
+
+Your details:
+
+Player Num: 0
+Player Name: Computer
+Player in Room: Num: 7 Name: Drawing Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 2
+
+Your space details:
+Room Num = 7, Room Name = Drawing Room,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+4 : Dining Hall
+6 : Bathroom
+15 : Hedge Maze
+
+Players in Room:
+0 : Computer
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+Move Completed
+
+Player 1. rakshika's Turn:
+
+Your details:
+
+Player Num: 1
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+Target =  Doctor Lucky, Health = 50, Current Location = 3
+
+Your space details:
+Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+
+Neighbors of Room:
+5 : Guest Room
+10 : Master Suite
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+6
+
+Current Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+
+Neighbors of Room:
+5 : Guest Room
+10 : Master Suite
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+
+NEIGHBOR DETAILS:
+Room Num = 5, Room Name = Guest Room,
+
+Items in Room:
+
+Neighbors of Room:
+1 : Trophy Room
+20 : Closet
+
+Players in Room:
+
+Room Num = 10, Room Name = Master Suite,
+
+Items in Room:
+19. Silken Cord, Item Damage: 3
+
+Neighbors of Room:
+1 : Trophy Room
+8 : Lanchester Room
+9 : Ball Room
+11 : Nursery
+20 : Closet
+
+Players in Room:
+
+Room Num = 20, Room Name = Closet,
+
+Items in Room:
+18. Piece of Rope, Item Damage: 2
+
+Neighbors of Room:
+1 : Trophy Room
+5 : Guest Room
+10 : Master Suite
+12 : Armory
+
+Players in Room:
+
+Room Num = 8, Room Name = Lanchester Room,
+
+Items in Room:
+17. Tight Hat, Item Damage: 2
+20. Loud Noise, Item Damage: 1
+
+Neighbors of Room:
+2 : Pantry
+1 : Trophy Room
+10 : Master Suite
+13 : Kitchen
+18 : Gallery
+
+Players in Room:
+
+
+
+Player 0. Computer's Turn:
+
+Your details:
+
+Player Num: 0
+Player Name: Computer
+Player in Room: Num: 4 Name: Dining Hall
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 50, Current Location = 4
+
+Your space details:
+Room Num = 4, Room Name = Dining Hall,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+6 : Bathroom
+7 : Drawing Room
+13 : Kitchen
+
+Players in Room:
+0 : Computer
+Pet =  Cooper the Husky, Current Location = 4
+Target =  Doctor Lucky, Health = 50, Current Location = 4
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+Attack successful!!
+
+Player 1. rakshika's Turn:
+
+Your details:
+
+Player Num: 1
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+Target =  Doctor Lucky, Health = 49, Current Location = 5
+
+Your space details:
+Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+
+Neighbors of Room:
+5 : Guest Room
+6 : Bathroom
+10 : Master Suite
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+2
+
+Enter room number to which you want to move the pet:
+10
+Pet Moved to Room 10
+
+Player 0. Computer's Turn:
+
+Your details:
+
+Player Num: 0
+Player Name: Computer
+Player in Room: Num: 4 Name: Dining Hall
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 49, Current Location = 6
+
+Your space details:
+Room Num = 4, Room Name = Dining Hall,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+6 : Bathroom
+7 : Drawing Room
+13 : Kitchen
+
+Players in Room:
+0 : Computer
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+Pet Moved to Room 9
+
+Player 1. rakshika's Turn:
+
+Your details:
+
+Player Num: 1
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+Target =  Doctor Lucky, Health = 49, Current Location = 7
+
+Your space details:
+Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+
+Neighbors of Room:
+5 : Guest Room
+6 : Bathroom
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+3
+
+Enter Item number that you want to use to attack the Target.
+You can choose to poke in the eye for damage of 1 by selecting item number as 0.
+5
+Target not in same room. Cannot attempt to kill. Lose your turn.
+
+Player 0. Computer's Turn:
+
+Your details:
+
+Player Num: 0
+Player Name: Computer
+Player in Room: Num: 4 Name: Dining Hall
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 49, Current Location = 8
+
+Your space details:
+Room Num = 4, Room Name = Dining Hall,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+6 : Bathroom
+7 : Drawing Room
+13 : Kitchen
+
+Players in Room:
+0 : Computer
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+Pet Moved to Room 20
+
+Player 1. rakshika's Turn:
+
+Your details:
+
+Player Num: 1
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+Target =  Doctor Lucky, Health = 49, Current Location = 9
+
+Your space details:
+Room Num = 1, Room Name = Trophy Room,
+
+Items in Room:
+
+Neighbors of Room:
+5 : Guest Room
+6 : Bathroom
+10 : Master Suite
+20 : Closet
+8 : Lanchester Room
+
+Players in Room:
+1 : rakshika
+Pet =  Cooper the Husky, Current Location = 1
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+4
+
+Enter room number to which you want to move:
+5
+Move Completed
+
+Player 0. Computer's Turn:
+
+Your details:
+
+Player Num: 0
+Player Name: Computer
+Player in Room: Num: 4 Name: Dining Hall
+Max Number of Items allowed to pick: 2
+Items Picked:
+
+Target =  Doctor Lucky, Health = 49, Current Location = 10
+
+Your space details:
+Room Num = 4, Room Name = Dining Hall,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+6 : Bathroom
+7 : Drawing Room
+13 : Kitchen
+
+Players in Room:
+0 : Computer
+
+Choose one of the following options: 
+1. Draw World
+2. Move Pet
+3. Attempt Kill
+4. Move
+5. Pick Item
+6. Look Around
+7. quit
+Current Room Num = 4, Room Name = Dining Hall,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+6 : Bathroom
+7 : Drawing Room
+13 : Kitchen
+
+Players in Room:
+0 : Computer
+
+NEIGHBOR DETAILS:
+Room Num = 3, Room Name = Foyer,
+
+Items in Room:
+3. Shoe Horn, Item Damage: 2
+7. Chain Saw, Item Damage: 4
+12. Big Red Hammer, Item Damage: 4
+
+Neighbors of Room:
+4 : Dining Hall
+7 : Drawing Room
+13 : Kitchen
+14 : Piazza
+
+Players in Room:
+
+Room Num = 6, Room Name = Bathroom,
+
+Items in Room:
+14. Duck Decoy, Item Damage: 3
+21. Hair Comb, Item Damage: 2
+
+Neighbors of Room:
+1 : Trophy Room
+4 : Dining Hall
+7 : Drawing Room
+
+Players in Room:
+
+Room Num = 7, Room Name = Drawing Room,
+
+Items in Room:
+
+Neighbors of Room:
+3 : Foyer
+4 : Dining Hall
+6 : Bathroom
+15 : Hedge Maze
+
+Players in Room:
+
+Room Num = 13, Room Name = Kitchen,
+
+Items in Room:
+1. Crepe Pan, Item Damage: 3
+
+Neighbors of Room:
+3 : Foyer
+8 : Lanchester Room
+2 : Pantry
+4 : Dining Hall
+16 : Wine Cellar
+
+Players in Room:
+
+
+Target has Escaped!! No winner!

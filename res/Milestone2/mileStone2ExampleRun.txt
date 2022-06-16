@@ -1,0 +1,45 @@
+
+Example Run for Model Requirements:
+Display Space Information in Required Format
+Player created and added to Room 1:
+Room Num = 1, Room Name = Trophy Room, Neighbors = {20=Closet, 5=Guest Room, 6=Bathroom, 8=Lanchester Room, 10=Master Suite}, Items = [13. Pinking Shears, Item Damage: 2, Item Room: 1], player = {10=rakshika}, coord = 8, 15, 14, 18
+
+**Space Details updated after Item is picked
+Player 10 picked Item 13 from room 1
+Player details: 
+Player Num: 10
+Player Name: rakshika
+Player in Room: Num: 1 Name: Trophy Room
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+
+**Space Details Updated after Player is moved
+Player 10 moved to room 20
+Player details: 
+Player Num: 10
+Player Name: rakshika
+Player in Room: Num: 20 Name: Closet
+Max Number of Items allowed to pick: 2
+Items Picked:
+13. Pinking Shears, Item Damage: 2
+
+Player Space Details: Room Num = 20, Room Name = Closet, Neighbors = {1=Trophy Room, 5=Guest Room, 10=Master Suite, 12=Armory}, Items = [18. Piece of Rope, Item Damage: 2, Item Room: 20], player = {10=rakshika}, coord = 5, 12, 9, 15
+
+**Look Around Details:
+Current Room Num = 20, Current Room Name = Closet 
+Neighboring Rooms with Items: 
+Neighbor Num = 1 Neighbor Name = Trophy Room
+Items in Room:
+
+Neighbor Num = 5 Neighbor Name = Guest Room
+Items in Room:
+
+Neighbor Num = 10 Neighbor Name = Master Suite
+Items in Room:
+19. Silken Cord, Item Damage: 3, Item Room: 10
+
+Neighbor Num = 12 Neighbor Name = Armory
+Items in Room:
+5. Revolver, Item Damage: 4, Item Room: 12
