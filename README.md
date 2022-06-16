@@ -1,3 +1,5 @@
+The /src and /test folders are kept private to adhere to academic integrity. You can reach out to me if you have any queries. You can still run the jar file available in /res
+
 **Name:** Rakshika Raju
 
 
