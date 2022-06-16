@@ -1,13 +1,4 @@
-# CS 5010 Semester Project
-
-This repo represents the coursework for CS 5010, the Spring 2022 Edition!
-
 **Name:** Rakshika Raju
-
-**Email:** raju.r@northeastern.edu
-
-**Preferred Name:** Rakshika
-
 
 
 ### About/Overview
